@@ -1,0 +1,1119 @@
+"","Metabolite","KEGG_ID","Num_Sig_Genes","Gene_Count","DiffMut_Score","Normalized_Score"
+"122","24-Hydroxycholesterol","C13550",1,1,1,1
+"149","3-Indolebutyric acid","C11284",1,1,1,1
+"275","7-Ketocholesterol","None",1,1,1,1
+"317","ADP-Ribosyl-L-arginine","None",1,1,1,1
+"858","Neuraminic acid","C06469",1,1,1,1
+"912","Pentanal","None",1,1,1,1
+"913","PG(16:0/16:0)","None",1,1,1,1
+"1030","Stearidonic acid","C16300",1,1,1,1
+"392","Carbamoyl phosphate","C00169",2,3,0.666666666666667,0.666666666666667
+"954","Prostaglandin I2","C01312",2,3,0.666666666666667,0.666666666666667
+"23","(S)-Succinyldihydrolipoamide","C01169",1,2,0.5,0.5
+"61","16a-Hydroxydehydroisoandrosterone","C05139",1,2,0.5,0.5
+"71","1D-Myo-inositol 1,3-bisphosphate","C04062",1,2,0.5,0.5
+"132","3-Carboxy-1-hydroxypropylthiamine diphosphate","C05381",1,2,0.5,0.5
+"167","3-Oxooctadecanoyl-CoA","C16216",1,2,0.5,0.5
+"219","4,5-Dihydroorotic acid","C00337",1,2,0.5,0.5
+"318","Adrenosterone","C05285",1,2,0.5,0.5
+"388","Canavaninosuccinate","None",1,2,0.5,0.5
+"927","Phosphoribosyl-ATP","C02739",1,2,0.5,0.5
+"952","Prostaglandin G2","C05956",1,2,0.5,0.5
+"44","11-Dehydrocorticosterone","C05490",1,3,0.333333333333333,0.333333333333333
+"282","7a-Hydroxydehydroepiandrosterone","C18045",1,3,0.333333333333333,0.333333333333333
+"431","Cob(II)alamin","C00541",1,3,0.333333333333333,0.333333333333333
+"439","Cortisol","C00735",2,6,0.333333333333333,0.333333333333333
+"482","D-Tagatose 1,6-bisphosphate","C03785",1,3,0.333333333333333,0.333333333333333
+"574","Escitalopram","None",1,3,0.333333333333333,0.333333333333333
+"632","Glutaric acid","C00489",1,3,0.333333333333333,0.333333333333333
+"966","Pyrimidine","C00396",1,3,0.333333333333333,0.333333333333333
+"997","S-Glutaryldihydrolipoamide","C06157",1,3,0.333333333333333,0.333333333333333
+"1051","Tetrahydrocorticosterone","C05476",1,3,0.333333333333333,0.333333333333333
+"1096","Ureidosuccinic acid","C00438",1,3,0.333333333333333,0.333333333333333
+"1108","Valdecoxib","None",1,3,0.333333333333333,0.333333333333333
+"1011","Selenomethionine","C05335",2,7,0.285714285714286,0.285714285714286
+"926","Phosphoribosyl pyrophosphate","C00119",3,11,0.272727272727273,0.272727272727273
+"49","11b,17a,21-Trihydroxypreg-nenolone","C05489",1,4,0.25,0.25
+"120","21-Hydroxypregnenolone","C05485",1,4,0.25,0.25
+"248","5-Methylcytosine","C02376",1,4,0.25,0.25
+"400","Celecoxib","C07589",1,4,0.25,0.25
+"440","Cortisone","C00762",1,4,0.25,0.25
+"497","Dehydroascorbic acid","C00425",1,4,0.25,0.25
+"591","Fructose 1-phosphate","C01094",1,4,0.25,0.25
+"1012","Sepiapterin","C00835",1,4,0.25,0.25
+"1032","Substance P","None",1,4,0.25,0.25
+"1037","Sulfite","C00094",1,4,0.25,0.25
+"1039","Superoxide","C00704",1,4,0.25,0.25
+"354","Aspirin","C01405",2,9,0.222222222222222,0.222222222222222
+"953","Prostaglandin H2","C00427",2,9,0.222222222222222,0.222222222222222
+"34","1-Phosphatidyl-D-myo-inositol","C01194",5,25,0.2,0.2
+"41","10-Formyltetrahydrofolate","C00234",2,10,0.2,0.2
+"78","2-(a-Hydroxyethyl)thiamine diphosphate","C05125",1,5,0.2,0.2
+"351","Argininosuccinic acid","C03406",1,5,0.2,0.2
+"391","Caprylic acid","C06423",1,5,0.2,0.2
+"592","Fructose 1,6-bisphosphate","C00354",2,10,0.2,0.2
+"633","Glutaryl-CoA","C00527",1,5,0.2,0.2
+"647","Glyoxylic acid","C00048",2,10,0.2,0.2
+"703","Inositol 1,4,5-trisphosphate","C01245",5,25,0.2,0.2
+"745","L-Palmitoylcarnitine","C02990",1,5,0.2,0.2
+"765","Lipoamide","C00248",1,5,0.2,0.2
+"816","N-Acetyl-L-alanine","None",1,5,0.2,0.2
+"821","N-Acetylgalactosamine 4-sulphate","C16265",1,5,0.2,0.2
+"887","Oxoadipic acid","C00322",1,5,0.2,0.2
+"1047","Tetradecanoyl-CoA","C02593",3,15,0.2,0.2
+"771","Loperamide","C07080",2,11,0.181818181818182,0.181818181818182
+"444","Cyclic GMP","C00942",8,45,0.177777777777778,0.177777777777778
+"1103","Uridine diphosphate-N-acetylglucosamine","C00043",7,40,0.175,0.175
+"315","ADP","C00008",131,766,0.171018276762402,0.171018276762402
+"65","17a-Hydroxypregnenolone","C05138",1,6,0.166666666666667,0.166666666666667
+"66","17a,21-Dihydroxypreg-nenolone","C05487",1,6,0.166666666666667,0.166666666666667
+"140","3-Hydroxy-3-methylglutaryl-CoA","C00356",1,6,0.166666666666667,0.166666666666667
+"234","5-Androstenediol","C04295",1,6,0.166666666666667,0.166666666666667
+"307","Adenosine phosphosulfate","C00224",1,6,0.166666666666667,0.166666666666667
+"393","Carbon monoxide","C00237",1,6,0.166666666666667,0.166666666666667
+"437","Cortexolone","C05488",1,6,0.166666666666667,0.166666666666667
+"491","Danazol","C06938",1,6,0.166666666666667,0.166666666666667
+"992","S-Acetyldihydrolipoamide-E","C16255",1,6,0.166666666666667,0.166666666666667
+"1014","Sertraline","C07246",1,6,0.166666666666667,0.166666666666667
+"309","Adenosine triphosphate","C00002",161,1011,0.159248269040554,0.159248269040554
+"518","DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)","None",19,124,0.153225806451613,0.153225806451613
+"516","DG(14:0/14:0/0:0)","C16667",18,118,0.152542372881356,0.152542372881356
+"517","DG(16:0/16:0/0:0)","C00165",18,119,0.151260504201681,0.151260504201681
+"515","DG(14:0/0:0/14:0)","None",16,107,0.149532710280374,0.149532710280374
+"306","Adenosine diphosphate ribose","C00301",1,7,0.142857142857143,0.142857142857143
+"323","Aldosterone","C01780",2,14,0.142857142857143,0.142857142857143
+"425","Citicoline","C00307",1,7,0.142857142857143,0.142857142857143
+"460","D-Erythrose 4-phosphate","C00279",1,7,0.142857142857143,0.142857142857143
+"644","Glycolic acid","C00160",1,7,0.142857142857143,0.142857142857143
+"705","Inositol phosphate","C01177",1,7,0.142857142857143,0.142857142857143
+"784","Malonyl-CoA","C00083",2,14,0.142857142857143,0.142857142857143
+"814","N-Acetyl-D-mannosamine 6-phosphate","C04257",1,7,0.142857142857143,0.142857142857143
+"847","N5-Formyl-THF","C03479",1,7,0.142857142857143,0.142857142857143
+"901","Pantoprazole","C11806",1,7,0.142857142857143,0.142857142857143
+"394","Carbonic acid","C01353",3,22,0.136363636363636,0.136363636363636
+"603","Gamma-Aminobutyric acid","C00334",5,37,0.135135135135135,0.135135135135135
+"443","Cyclic AMP","C00575",21,163,0.128834355828221,0.128834355828221
+"64","17-Hydroxyprogesterone","C01176",1,8,0.125,0.125
+"478","D-Ribose 5-phosphate","C00117",2,16,0.125,0.125
+"656","Guanosine triphosphate","C00044",69,552,0.125,0.125
+"786","Mannose 6-phosphate","C00275",2,16,0.125,0.125
+"1005","Se-Adenosylselenomethionine","C05691",1,8,0.125,0.125
+"1092","Uracil","C00106",1,8,0.125,0.125
+"929","Phosphoric acid","C00009",81,672,0.120535714285714,0.120535714285714
+"472","D-Mannose","C00159",6,50,0.12,0.12
+"558","Dopamine","C03758",3,26,0.115384615384615,0.115384615384615
+"918","Phosphatidylinositol-3,4,5-trisphosphate","C05981",9,80,0.1125,0.1125
+"253","5,10-Methenyltetrahydrofolic acid","C00445",1,9,0.111111111111111,0.111111111111111
+"438","Corticosterone","C02140",1,9,0.111111111111111,0.111111111111111
+"498","Dehydroepiandrosterone","C01227",1,9,0.111111111111111,0.111111111111111
+"701","Inositol 1,3,4,5-tetraphosphate","C01272",1,9,0.111111111111111,0.111111111111111
+"824","N-Acetylmannosamine","C00645",1,9,0.111111111111111,0.111111111111111
+"935","PIP3(16:0/16:0)","C00626",9,81,0.111111111111111,0.111111111111111
+"940","Pregnenolone","C01953",1,9,0.111111111111111,0.111111111111111
+"1117","Zolpidem","C07219",1,9,0.111111111111111,0.111111111111111
+"969","Pyrophosphate","C00013",34,332,0.102409638554217,0.102409638554217
+"46","11b-Hydroxyandrost-4-ene-3,17-dione","C05284",1,10,0.1,0.1
+"294","Acetoacetic acid","C00164",1,10,0.1,0.1
+"441","Creatine","C00300",1,10,0.1,0.1
+"825","N-Acetylneuraminic acid","C19910",1,10,0.1,0.1
+"878","Oleoyl-CoA","C00510",1,10,0.1,0.1
+"892","PA(16:0/16:0)","C00416",6,60,0.1,0.1
+"908","PE(P-16:0e/0:0)","None",3,30,0.1,0.1
+"1038","Sumatriptan","C07319",1,10,0.1,0.1
+"736","L-Glutamic acid","C00025",9,91,0.0989010989010989,0.0989010989010989
+"637","Glycerol","C00116",4,41,0.0975609756097561,0.0975609756097561
+"773","LPA(0:0/16:0)","C00416",4,41,0.0975609756097561,0.0975609756097561
+"449","Cytidine","C00475",2,21,0.0952380952380952,0.0952380952380952
+"726","L-Alanine","C00041",2,21,0.0952380952380952,0.0952380952380952
+"586","Flavin Mononucleotide","C00061",3,32,0.09375,0.09375
+"664","Heparin","C00374",3,32,0.09375,0.09375
+"254","5,10-Methylene-THF","C00143",1,11,0.0909090909090909,0.0909090909090909
+"550","Dodecanoic acid","C02679",1,11,0.0909090909090909,0.0909090909090909
+"900","Pantetheine 4'-phosphate","C01134",1,11,0.0909090909090909,0.0909090909090909
+"1041","Taurine","C00245",1,11,0.0909090909090909,0.0909090909090909
+"653","Guanosine diphosphate","C00035",20,225,0.0888888888888889,0.0888888888888889
+"973","Pyruvic acid","C00022",5,59,0.0847457627118644,0.0847457627118644
+"207","4-Hydroxyproline","C01157",1,12,0.0833333333333333,0.0833333333333333
+"595","Fumaric acid","C00122",1,12,0.0833333333333333,0.0833333333333333
+"634","Glyceraldehyde","C02154",1,12,0.0833333333333333,0.0833333333333333
+"820","N-Acetylgalactosamine","C01074",1,12,0.0833333333333333,0.0833333333333333
+"861","Nicotinamide ribotide","C00455",1,12,0.0833333333333333,0.0833333333333333
+"893","PA(16:0e/18:0)","None",4,48,0.0833333333333333,0.0833333333333333
+"922","Phosphoenolpyruvic acid","C00074",1,12,0.0833333333333333,0.0833333333333333
+"1043","Taurocholic acid","C05122",2,24,0.0833333333333333,0.0833333333333333
+"655","Guanosine monophosphate","C00144",16,194,0.0824742268041237,0.0824742268041237
+"894","PA(P-16:0e/18:2(9Z,12Z))","C15647",4,49,0.0816326530612245,0.0816326530612245
+"452","Cytidine triphosphate","C00063",5,63,0.0793650793650794,0.0793650793650794
+"1105","Uridine triphosphate","C00075",5,64,0.078125,0.078125
+"211","4-Nitrophenol","C00870",1,13,0.0769230769230769,0.0769230769230769
+"468","D-Glyceraldehyde 3-phosphate","C00661",1,13,0.0769230769230769,0.0769230769230769
+"538","Dihydroxyacetone phosphate","C00111",1,13,0.0769230769230769,0.0769230769230769
+"641","Glycine","C00037",3,39,0.0769230769230769,0.0769230769230769
+"674","Hyaluronan","None",1,13,0.0769230769230769,0.0769230769230769
+"679","Hydrogen peroxide","C00027",4,52,0.0769230769230769,0.0769230769230769
+"950","Prostaglandin E2","C00584",1,13,0.0769230769230769,0.0769230769230769
+"909","PE(P-16:0e/16:0)","C04756",3,41,0.0731707317073171,0.0731707317073171
+"875","Olanzapine","C07322",1,14,0.0714285714285714,0.0714285714285714
+"907","PE(O-18:1(1Z)/20:4(5Z,8Z,11Z,14Z))","C00350",3,42,0.0714285714285714,0.0714285714285714
+"931","Phosphorylcholine","C00588",1,14,0.0714285714285714,0.0714285714285714
+"1033","Succinic acid","C00042",3,43,0.0697674418604651,0.0697674418604651
+"774","LPA(18:0e/0:0)","None",2,29,0.0689655172413793,0.0689655172413793
+"905","PC(dm16:0/dm16:0)","None",3,44,0.0681818181818182,0.0681818181818182
+"381","Butyric acid","C00246",1,15,0.0666666666666667,0.0666666666666667
+"479","D-Ribulose 5-phosphate","C00117",1,15,0.0666666666666667,0.0666666666666667
+"638","Glycerol 3-phosphate","C00093",1,15,0.0666666666666667,0.0666666666666667
+"1035","Succinyl-CoA","C00091",1,15,0.0666666666666667,0.0666666666666667
+"904","PC(18:1(9Z)e/2:0)","C04598",5,76,0.0657894736842105,0.0657894736842105
+"432","Coenzyme A","C00010",12,183,0.0655737704918033,0.0655737704918033
+"729","L-Aspartic acid","C00049",2,31,0.0645161290322581,0.0645161290322581
+"739","L-Glutamine","C00064",2,31,0.0645161290322581,0.0645161290322581
+"1099","Uridine 5'-monophosphate","C00105",2,31,0.0645161290322581,0.0645161290322581
+"731","L-Carnitine","C15025",1,16,0.0625,0.0625
+"1102","Uridine diphosphate-N-acetylgalactosamine","C00203",2,32,0.0625,0.0625
+"1098","Uridine 5'-diphosphate","C00015",9,147,0.0612244897959184,0.0612244897959184
+"297","Acetyl-CoA","C00024",10,169,0.0591715976331361,0.0591715976331361
+"356","Atorvastatin","C06834",1,17,0.0588235294117647,0.0588235294117647
+"363","Beta-Alanine","C00099",1,17,0.0588235294117647,0.0588235294117647
+"593","Fructose 6-phosphate","C00085",1,17,0.0588235294117647,0.0588235294117647
+"749","L-Tyrosine","C00082",1,17,0.0588235294117647,0.0588235294117647
+"884","Oxalacetic acid","C00036",1,17,0.0588235294117647,0.0588235294117647
+"1061","Thiamine pyrophosphate","C00068",1,17,0.0588235294117647,0.0588235294117647
+"945","Progesterone","C00410",2,35,0.0571428571428571,0.0571428571428571
+"994","S-Adenosylmethionine","C00019",7,124,0.0564516129032258,0.0564516129032258
+"788","Melatonin","C01598",1,18,0.0555555555555556,0.0555555555555556
+"906","PC(O-16:0/18:2(9Z,12Z))","None",4,72,0.0555555555555556,0.0555555555555556
+"981","Retinal","C00376",1,18,0.0555555555555556,0.0555555555555556
+"1104","Uridine diphosphategalactose","C00052",1,18,0.0555555555555556,0.0555555555555556
+"859","Niacinamide","C00153",2,37,0.0540540540540541,0.0540540540540541
+"1101","Uridine diphosphate glucuronic acid","C00167",2,37,0.0540540540540541,0.0540540540540541
+"413","Cholesterol","C00187",1,19,0.0526315789473684,0.0526315789473684
+"903","PC(16:0/16:0)","C00157",4,77,0.051948051948052,0.051948051948052
+"366","Beta-D-Fructose 6-phosphate","C05345",1,20,0.05,0.05
+"678","Hydrogen carbonate","C00288",1,20,0.05,0.05
+"95","2-Ketobutyric acid","C00109",1,21,0.0476190476190476,0.0476190476190476
+"303","Adenosine","C00212",1,21,0.0476190476190476,0.0476190476190476
+"830","N-Glycoloylganglioside GM1","C01808",2,42,0.0476190476190476,0.0476190476190476
+"920","Phosphoadenosine phosphosulfate","C00053",2,42,0.0476190476190476,0.0476190476190476
+"831","N-Glycoloylganglioside GM2","C01808",2,43,0.0465116279069767,0.0465116279069767
+"778","LysoPC(O-18:0)","C04317",1,22,0.0454545454545455,0.0454545454545455
+"888","Oxoglutaric acid","C00026",3,67,0.0447761194029851,0.0447761194029851
+"790","Menadione","C05377",1,23,0.0434782608695652,0.0434782608695652
+"866","Norepinephrine","C00547",1,23,0.0434782608695652,0.0434782608695652
+"852","NADH","C00004",9,210,0.0428571428571429,0.0428571428571429
+"659","Heme","C00032",7,166,0.0421686746987952,0.0421686746987952
+"610","Ganglioside GM1 (18:1/12:0)","C04911",2,49,0.0408163265306122,0.0408163265306122
+"889","Oxygen","C00007",8,198,0.0404040404040404,0.0404040404040404
+"611","Ganglioside GM2 (d18:1/12:0)","C04884",2,50,0.04,0.04
+"675","Hyaluronic acid","C00518",1,25,0.04,0.04
+"750","Lactosamine","C00203",1,25,0.04,0.04
+"851","NAD","C00003",10,253,0.0395256916996047,0.0395256916996047
+"1013","Serotonin","C00780",1,27,0.037037037037037,0.037037037037037
+"336","Ammonia","C00014",3,83,0.036144578313253,0.036144578313253
+"698","Inosine triphosphate","C00081",1,28,0.0357142857142857,0.0357142857142857
+"352","Aripiprazole","C12564",1,29,0.0344827586206897,0.0344827586206897
+"630","Glucosylceramide (d18:1/24:0)","None",2,58,0.0344827586206897,0.0344827586206897
+"844","N1-Acetylspermine","C02567",1,29,0.0344827586206897,0.0344827586206897
+"627","Glucosylceramide (d18:1/12:0)","C01190",2,59,0.0338983050847458,0.0338983050847458
+"416","Cholic acid","C00695",1,30,0.0333333333333333,0.0333333333333333
+"1058","TG(16:0/16:0/18:0)[iso3]","C00422",1,30,0.0333333333333333,0.0333333333333333
+"628","Glucosylceramide (d18:1/16:0)","C01190",2,61,0.0327868852459016,0.0327868852459016
+"629","Glucosylceramide (d18:1/20:0)","C01190",2,61,0.0327868852459016,0.0327868852459016
+"396","CDP","C00112",1,31,0.032258064516129,0.032258064516129
+"694","IDP","C00104",1,31,0.032258064516129,0.032258064516129
+"1036","Sulfate","C00059",1,33,0.0303030303030303,0.0303030303030303
+"1057","TG(14:0/14:0/14:0)","None",1,34,0.0294117647058824,0.0294117647058824
+"501","Deoxyadenosine triphosphate","C00131",1,35,0.0285714285714286,0.0285714285714286
+"607","Ganglioside GD2 (d18:1/12:0)","None",1,38,0.0263157894736842,0.0263157894736842
+"305","Adenosine 3',5'-diphosphate","C00054",1,39,0.0256410256410256,0.0256410256410256
+"609","Ganglioside GD3 (d18:1/24:1(15Z))","C06133",1,39,0.0256410256410256,0.0256410256410256
+"957","PS(16:0/16:0)","C02737",1,39,0.0256410256410256,0.0256410256410256
+"1059","TG(18:0/18:0/18:0)","C00422",1,39,0.0256410256410256,0.0256410256410256
+"854","NADPH","C00005",5,198,0.0252525252525253,0.0252525252525253
+"608","Ganglioside GD3 (d18:1/12:0)","C06133",1,40,0.025,0.025
+"631","Glucosylsphingosine","C03108",1,40,0.025,0.025
+"853","NADP","C00006",5,204,0.0245098039215686,0.0245098039215686
+"1070","Thymidine 5'-triphosphate","C00459",1,41,0.024390243902439,0.024390243902439
+"341","Androstenedione","C00280",1,42,0.0238095238095238,0.0238095238095238
+"934","Phytosphingosine","C12144",1,42,0.0238095238095238,0.0238095238095238
+"135","3-Dehydrosphinganine","C02934",1,43,0.0232558139534884,0.0232558139534884
+"602","Galactosylsphingosine","C01747",1,43,0.0232558139534884,0.0232558139534884
+"612","Ganglioside GM3 (d18:1/12:0)","C04730",1,45,0.0222222222222222,0.0222222222222222
+"613","Ganglioside GM3 (d18:1/25:0)","C04730",1,47,0.0212765957446809,0.0212765957446809
+"1016","SM(d16:1/24:1(15Z))","None",1,47,0.0212765957446809,0.0212765957446809
+"1026","Sphingosine 1-phosphate","C06124",1,47,0.0212765957446809,0.0212765957446809
+"1024","Sphinganine 1-phosphate","C01120",1,48,0.0208333333333333,0.0208333333333333
+"1017","SM(d18:1/18:0)","C00550",1,49,0.0204081632653061,0.0204081632653061
+"580","FAD","C00016",3,159,0.0188679245283019,0.0188679245283019
+"1049","Tetrahexosylceramide (d18:1/9Z-18:1)","C03272",1,55,0.0181818181818182,0.0181818181818182
+"898","Palmityl-CoA","C00154",2,112,0.0178571428571429,0.0178571428571429
+"596","Galabiosylceramide (d18:1/9Z-18:1)","C06126",1,57,0.0175438596491228,0.0175438596491228
+"162","3-O-Sulfogalactosylceramide (d18:1/12:0)","C06125",1,58,0.0172413793103448,0.0172413793103448
+"626","Glucosylceramide","C01190",1,58,0.0172413793103448,0.0172413793103448
+"1023","Sphinganine","C00836",1,58,0.0172413793103448,0.0172413793103448
+"325","All-trans-retinoic acid","C00777",1,59,0.0169491525423729,0.0169491525423729
+"837","N-Palmitoylsphingosine","None",1,60,0.0166666666666667,0.0166666666666667
+"1048","Tetrahexosylceramide (d18:1/12:0)","C03272",1,60,0.0166666666666667,0.0166666666666667
+"1083","Trihexosylceramide (d18:1/12:0)","C04737",1,60,0.0166666666666667,0.0166666666666667
+"401","Cer(d18:1/23:0)","None",1,62,0.0161290322580645,0.0161290322580645
+"752","Lactosylceramide (d18:1/18:0)","C01290",1,62,0.0161290322580645,0.0161290322580645
+"1025","Sphingosine","C00319",1,62,0.0161290322580645,0.0161290322580645
+"529","Dihydroceramide","C12126",1,65,0.0153846153846154,0.0153846153846154
+"402","Ceramide (d18:1/12:0)","C00195",1,66,0.0151515151515152,0.0151515151515152
+"600","Galactosylceramide (d18:1/16:0)","C02686",1,66,0.0151515151515152,0.0151515151515152
+"751","Lactosylceramide (d18:1/12:0)","C01290",1,67,0.0149253731343284,0.0149253731343284
+"163","3-O-Sulfogalactosylceramide (d18:1/24:0)","C06125",1,68,0.0147058823529412,0.0147058823529412
+"404","Ceramide (d18:1/20:0)","C00195",1,68,0.0147058823529412,0.0147058823529412
+"403","Ceramide (d18:1/16:0)","C00195",1,73,0.0136986301369863,0.0136986301369863
+"1044","Testosterone","C00535",1,74,0.0135135135135135,0.0135135135135135
+"896","Palmitic acid","C00249",1,79,0.0126582278481013,0.0126582278481013
+"101","2-Methylbutyryl-CoA","C01033",1,99,0.0101010101010101,0.0101010101010101
+"442","Crotonoyl-CoA","C00877",1,101,0.0099009900990099,0.0099009900990099
+"568","Eicosanoyl-CoA","C02041",1,104,0.00961538461538462,0.00961538461538462
+"873","Octanoyl-CoA","C01944",1,104,0.00961538461538462,0.00961538461538462
+"192","3Z-dodecenoyl-CoA","C02944",1,105,0.00952380952380952,0.00952380952380952
+"944","Pristanoyl-CoA","C07297",1,105,0.00952380952380952,0.00952380952380952
+"4","(2E)-Dodecenoyl-CoA","C03221",1,106,0.00943396226415094,0.00943396226415094
+"5","(2E)-Hexadecenoyl-CoA","C05272",1,106,0.00943396226415094,0.00943396226415094
+"382","Butyryl-CoA","C00136",1,106,0.00943396226415094,0.00943396226415094
+"1031","Stearoyl-CoA","C00412",1,106,0.00943396226415094,0.00943396226415094
+"349","Arachidonic acid","C00219",1,109,0.00917431192660551,0.00917431192660551
+"668","Heptanoyl-CoA","None",1,109,0.00917431192660551,0.00917431192660551
+"947","Propionyl-CoA","C00100",1,113,0.00884955752212389,0.00884955752212389
+"666","Heptadecanoyl CoA","None",1,158,0.00632911392405063,0.00632911392405063
+"1","(+)-(1R,2R)-1,2-Diphenylethane-1,2-diol","C16015",0,1,0,0
+"2","(13E)-11a-Hydroxy-9,15-dioxoprost-13-enoic acid","C04654",0,1,0,0
+"3","(24R)-Cholest-5-ene-3-beta,24-diol","None",0,1,0,0
+"6","(3a,5b,7a)-23-Carboxy-7-hydroxy-24-norcholan-3-yl-b-D-Glucopyranosiduronic acid","None",0,15,0,0
+"7","(3S)-3-Hydroxyadipyl-CoA","C14145",0,5,0,0
+"8","(E)-2-Methylglutaconic acid","None",0,2,0,0
+"9","(E)-3-(2,3-Dihydroxyphenyl)-2-propenoic acid","C12623",0,2,0,0
+"10","(N-acetylneuraminosyl(a2-6)lactosamine)","C04886",0,2,0,0
+"11","(R)-3-Hydroxybutyric acid","C01089",0,2,0,0
+"12","(R)-b-aminoisobutyric acid","C01205",0,1,0,0
+"13","(R)-lipoic acid","C00725",0,8,0,0
+"14","(S)-2,3-Epoxysqualene","C01054",0,1,0,0
+"15","(S)-3-Hydroxybutyric acid","C03197",0,2,0,0
+"16","(S)-3-Hydroxyhexadecanoyl-CoA","C05258",0,9,0,0
+"17","(S)-3-Hydroxyisobutyric acid","C06001",0,4,0,0
+"18","(S)-3-Hydroxyisobutyryl-CoA","C06000",0,4,0,0
+"19","(S)-5-Diphosphomevalonic acid","C01143",0,2,0,0
+"20","(S)-b-aminoisobutyric acid","C03284",0,1,0,0
+"21","(S)-Methylmalonic acid semialdehyde","C06002",0,14,0,0
+"22","(S)-Propane-1,2-diol","C02917",0,1,0,0
+"24","(S)-Ureidoglycolic acid","C00603",0,1,0,0
+"25","1-(beta-D-Ribofuranosyl)-1,4-dihydronicotinamide","C15497",0,1,0,0
+"26","1-(sn-Glycero-3-phospho)-1D-myo-inositol","C01225",0,2,0,0
+"27","1-Butanol","C06142",0,34,0,0
+"28","1-Methylhistamine","C05127",0,3,0,0
+"29","1-Methylhistidine","C01152",0,2,0,0
+"30","1-Methylnicotinamide","C02918",0,2,0,0
+"31","1-Pentanol","C16834",0,35,0,0
+"32","1-Phenylethylamine","C02455",0,5,0,0
+"33","1-Phosphatidyl-1D-myo-inositol 3-phosphate","C04549",0,3,0,0
+"35","1-Pyrroline-5-carboxylic acid","C04322",0,6,0,0
+"36","1,2-Dihydroxy-3-keto-5-methylthiopentene","C15606",0,2,0,0
+"37","1,2,3-Propanetricarboxylic acid","C19806",0,1,0,0
+"38","1,3-Diaminopropane","C00986",0,7,0,0
+"39","1,4-beta-D-Glucan","C00760",0,2,0,0
+"40","1,5-Anhydrosorbitol","C07326",0,1,0,0
+"42","11-cis-Retinaldehyde","C02110",0,1,0,0
+"43","11-cis-Retinol","C00899",0,6,0,0
+"45","11,12-EpETrE","None",0,3,0,0
+"47","11b-Hydroxyprogesterone","C05498",0,5,0,0
+"48","11b-PGF2a","C05959",0,1,0,0
+"50","12-Keto-tetrahydro-leukotriene B4","C02165",0,3,0,0
+"51","12(R)-HPETE","C14812",0,1,0,0
+"52","12(S)-HPETE","C05965",0,1,0,0
+"53","12(S)-Leukotriene B4","C04853",0,2,0,0
+"54","13-cis-Retinoic acid","D00348",0,2,0,0
+"55","13-HETE","None",0,3,0,0
+"56","13-L-Hydroperoxylinoleic acid","C04717",0,2,0,0
+"57","14,15-DiHETrE","C14775",0,1,0,0
+"58","15-Keto-prostaglandin F2a","C05960",0,1,0,0
+"59","15(S)-HETE","C04742",0,7,0,0
+"60","15(S)-HPETE","C05966",0,33,0,0
+"62","16a-Hydroxyestrone","C05300",0,4,0,0
+"63","16b-Hydroxyestrone","C05300",0,6,0,0
+"67","18-Hydroxycorticosterone","C01124",0,2,0,0
+"68","19-Hydroxyandrost-4-ene-3,17-dione","C05290",0,24,0,0
+"69","19-Oxotestosterone","C05295",0,25,0,0
+"70","1b-Hydroxycholic acid","None",0,9,0,0
+"72","1D-Myo-inositol 1,3,4,6-tetrakisphosphate","C04477",0,1,0,0
+"73","1D-Myo-inositol 1,4-bisphosphate","C01220",0,6,0,0
+"74","1D-Myo-inositol 1,4,5,6-tetrakisphosphate","C11555",0,1,0,0
+"75","1D-myo-Inositol 3-phosphate","C04006",0,5,0,0
+"76","1D-Myo-inositol 3,4-bisphosphate","C04063",0,3,0,0
+"77","2-(3-Carboxy-3-(methylammonio)propyl)-L-histidine","C04692",0,1,0,0
+"79","2-Acetolactate","C00900",0,1,0,0
+"80","2-Amino-3-carboxymuconic acid semialdehyde","C04409",0,2,0,0
+"81","2-Amino-4-oxo-6-(1',2'-dioxoprolyl)-7,8-dihydroxypteridine","C05255",0,1,0,0
+"82","2-Aminomuconic acid","C02220",0,1,0,0
+"83","2-Arachidonylglycerol","C13856",0,8,0,0
+"84","2-Ethoxyethanol","C14687",0,1,0,0
+"85","2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone","C05805",0,2,0,0
+"86","2-Hexaprenyl-3-methyl-6-methoxy-1,4 benzoquinone","C05804",0,2,0,0
+"87","2-Hexaprenyl-6-methoxyphenol","C05802",0,1,0,0
+"88","2-Hydroxy-3-(4-hydroxyphenyl)propenoic acid","C05350",0,1,0,0
+"89","2-Hydroxybutyric acid","C05984",0,6,0,0
+"90","2-Hydroxyestradiol","C05301",0,3,0,0
+"91","2-Hydroxyestrone-1-S-glutathione","None",0,1,0,0
+"92","2-Hydroxyphenethylamine","C02735",0,1,0,0
+"93","2-Hydroxyphytanoyl-CoA","C07343",0,2,0,0
+"94","2-Keto-glutaramic acid","C00940",0,2,0,0
+"96","2-Methoxyestradiol","C05302",0,23,0,0
+"97","2-Methoxyestrone","C05299",0,23,0,0
+"98","2-Methyl-3-hydroxybutyryl-CoA","C04405",0,6,0,0
+"99","2-Methyl-3-oxopropanoic acid","C00349",0,7,0,0
+"100","2-Methylacetoacetyl-CoA","C03344",0,8,0,0
+"102","2-Methylpropan-2-ol","None",0,4,0,0
+"103","2-Oxo-3-hydroxy-4-phosphobutanoic acid","C06054",0,1,0,0
+"104","2-Oxo-4-methylthiobutanoic acid","C01180",0,5,0,0
+"105","2-Oxoarginine","C03771",0,1,0,0
+"106","2-Phospho-D-glyceric acid","C00631",0,8,0,0
+"107","2-Phosphoglyceric acid","None",0,15,0,0
+"108","2,2,2-Trichloroethanol","C07490",0,25,0,0
+"109","2,3-Butanediol","C00265",0,1,0,0
+"110","2,3-Diphosphoglyceric acid","C01159",0,5,0,0
+"111","2,3-Epoxyaflatoxin B1","C19586",0,19,0,0
+"112","2,5-Diaminopyrimidine nucleoside triphosphate","C05923",0,1,0,0
+"113","2'-Deoxyguanosine 5'-monophosphate","C00362",0,10,0,0
+"114","2'-Deoxyinosine triphosphate","C01345",0,8,0,0
+"115","20-Hydroxy-leukotriene B4","C04853",0,5,0,0
+"116","20-Hydroxyeicosatetraenoic acid","C14748",0,7,0,0
+"117","20a-Dihydroprogesterone","C04042",0,1,0,0
+"118","20alpha-Hydroxycholesterol","C05500",0,2,0,0
+"119","21-Deoxycortisol","C05497",0,5,0,0
+"121","24-Hydroxycalcitriol","None",0,1,0,0
+"123","24-Methylenelophenol","C11522",0,1,0,0
+"124","25-Hydroxycholesterol","C15519",0,3,0,0
+"125","27-Deoxy-5b-cyprinol","C05446",0,1,0,0
+"126","27-Hydroxycholesterol","C06340",0,3,0,0
+"127","3 alpha,7 alpha,24-Trihydroxy-5beta-cholestanoyl-CoA","C05448",0,1,0,0
+"128","3 beta-Hydroxy-5-cholestenoate","C17333",0,2,0,0
+"129","3-Aminoisobutanoic acid","C05145",0,1,0,0
+"130","3-Aminopropionaldehyde","C05665",0,13,0,0
+"131","3-beta-Hydroxy-4-beta-methyl-5-alpha-cholest-7-ene-4-alpha-carboxylate","C04840",0,3,0,0
+"133","3-Dehydro-L-gulonate","C00618",0,1,0,0
+"134","3-Dehydroquinate","C00944",0,3,0,0
+"136","3-Dehydroxycarnitine","C05543",0,1,0,0
+"137","3-Deoxy-D-glycero-D-galacto-2-nonulosonic acid","None",0,7,0,0
+"138","3-Hexaprenyl-4-hydroxy-5-methoxybenzoic acid","C05313",0,1,0,0
+"139","3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA","C11947",0,3,0,0
+"141","3-Hydroxy-L-proline","C04397",0,3,0,0
+"142","3-Hydroxy-N6,N6,N6-trimethyl-L-lysine","C01259",0,1,0,0
+"143","3-Hydroxyanthranilic acid","C00632",0,7,0,0
+"144","3-Hydroxybutyric acid","C01089",0,2,0,0
+"145","3-Hydroxybutyryl-CoA","C03561",0,4,0,0
+"146","3-Hydroxymethylglutaric acid","C03761",0,1,0,0
+"147","3-hydroxyoctadecanoyl-CoA","C16217",0,3,0,0
+"148","3-Hydroxyquinine","C07344",0,1,0,0
+"150","3-Mercaptolactate-cysteine disulfide","None",0,1,0,0
+"151","3-Mercaptopyruvic acid","C00957",0,10,0,0
+"152","3-Methoxy-4-hydroxyphenylglycol glucuronide","C03033",0,18,0,0
+"153","3-Methoxy-4-hydroxyphenylglycolaldehyde","C05583",0,6,0,0
+"154","3-Methoxytyramine","C05587",0,3,0,0
+"155","3-Methyl-1-hydroxybutyl-ThPP","C15974",0,2,0,0
+"156","3-Methyl-2-oxovaleric acid","C03465",0,5,0,0
+"157","3-Methylcrotonyl-CoA","C03069",0,9,0,0
+"158","3-Methylglutaconyl-CoA","C03231",0,3,0,0
+"159","3-Methylhistidine","C01152",0,6,0,0
+"160","3-Methylindole","C08313",0,1,0,0
+"161","3-Methylthiopropionic acid","C08276",0,1,0,0
+"164","3-Oxodecanoic acid","None",0,2,0,0
+"165","3-Oxodecanoyl-CoA","C05265",0,9,0,0
+"166","3-Oxohexanoyl-CoA","C05269",0,10,0,0
+"168","3-Oxooctanoyl-CoA","C05267",0,9,0,0
+"169","3-Oxotetradecanoyl-CoA","C05261",0,8,0,0
+"170","3-Phosphoglyceric acid","C00597",0,11,0,0
+"171","3-Sulfinoalanine","C00606",0,6,0,0
+"172","3-Sulfinylpyruvic acid","C05527",0,2,0,0
+"173","3-trans,5-cis-Octadienoyl-CoA","None",0,2,0,0
+"174","3,4-Dihydroxymandelaldehyde","C05577",0,13,0,0
+"175","3,4-Dihydroxyphenylacetaldehyde","C04043",0,9,0,0
+"176","3,4-Dihydroxyphenylglycol","C05576",0,8,0,0
+"177","3,5-Diiodo-L-tyrosine","C01060",0,2,0,0
+"178","3'-Ketolactose","C05403",0,2,0,0
+"179","3a,7a-Dihydroxy-5b-24-oxocholestanoyl-CoA","C05449",0,4,0,0
+"180","3a,7a-Dihydroxy-5b-cholest-24-enoyl-CoA","C05447",0,3,0,0
+"181","3a,7a-Dihydroxy-5b-cholestan-26-al","C05445",0,13,0,0
+"182","3a,7a-Dihydroxy-5b-cholestanate","None",0,7,0,0
+"183","3a,7a-Dihydroxy-5b-cholestane","C05452",0,3,0,0
+"184","3a,7a-Dihydroxy-5b-cholestanoyl-CoA","C04644",0,5,0,0
+"185","3a,7a-Dihydroxycoprostanic acid","None",0,12,0,0
+"186","3a,7a,12a-Trihydroxy-5b-24-oxocholestanoyl-CoA","C05467",0,6,0,0
+"187","3a,7a,12a-Trihydroxy-5b-cholest-24-enoyl-CoA","C05460",0,2,0,0
+"188","3a,7a,12a-Trihydroxy-5b-cholestanoic acid","C04722",0,11,0,0
+"189","3a,7a,12a-Trihydroxy-5b-cholestanoyl-CoA","C05448",0,3,0,0
+"190","3a,7a,12a,24-Tetrahydroxy-5b-cholestanoyl-CoA","C05450",0,3,0,0
+"191","3a,7b,12a-Trihydroxyoxocholanyl-Glycine","None",0,4,0,0
+"193","4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoic acid","C05645",0,4,0,0
+"194","4-(2-Aminophenyl)-2,4-dioxobutanoic acid","C01252",0,5,0,0
+"195","4-Aminobutyraldehyde","C00555",0,7,0,0
+"196","4-Coumaryl alcohol","C02646",0,4,0,0
+"197","4-Fumarylacetoacetic acid","C01061",0,2,0,0
+"198","4-Guanidinobutanoic acid","C01035",0,1,0,0
+"199","4-Hydroxy-2-oxoglutaric acid","C01127",0,2,0,0
+"200","4-Hydroxy-L-glutamic acid","C03079",0,4,0,0
+"201","4-Hydroxy-L-proline","C01015",0,4,0,0
+"202","4-Hydroxybutyric acid","C00989",0,2,0,0
+"203","4-Hydroxynonenal","None",0,1,0,0
+"204","4-Hydroxyphenylacetaldehyde","C03765",0,8,0,0
+"205","4-Hydroxyphenylacetyl-CoA","C05338",0,2,0,0
+"206","4-Hydroxyphenylpyruvic acid","C01179",0,6,0,0
+"208","4-Imidazolone-5-propionic acid","C03680",0,2,0,0
+"209","4-Methylpentanal","C02373",0,1,0,0
+"210","4-Nitrocatechol","C02235",0,1,0,0
+"212","4-OH-Retinal","None",0,2,0,0
+"213","4-Oxoretinal","None",0,1,0,0
+"214","4-Phosphopantothenoylcysteine","C04352",0,6,0,0
+"215","4-Pyridoxic acid","C00847",0,1,0,0
+"216","4-Trimethylammoniobutanal","C01149",0,6,0,0
+"217","4,4-Dimethyl-5a-cholesta-8,24-dien-3-b-ol","C05108",0,4,0,0
+"218","4,4-Dimethylcholesta-8,14,24-trienol","C11455",0,2,0,0
+"220","4,6-Dideoxy-4-oxo-dTDP-D-glucose","C11907",0,1,0,0
+"221","4,6-Dihydroxyquinoline","C05639",0,2,0,0
+"222","4,8 Dimethylnonanoyl carnitine","None",0,3,0,0
+"223","4a-Carbinolamine tetrahydrobiopterin","C00268",0,7,0,0
+"224","4a-Carboxy-4b-methyl-5a-cholesta-8,24-dien-3b-ol","C15808",0,12,0,0
+"225","4a-Hydroxytetrahydrobiopterin","C15522",0,6,0,0
+"226","4a-Methyl-5a-cholesta-8,24-dien-3-one","None",0,1,0,0
+"227","4a-Methylfecosterol","C15776",0,2,0,0
+"228","4a-Methylzymosterol-4-carboxylic acid","C15808",0,3,0,0
+"229","5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate","C04751",0,1,0,0
+"230","5-Amino-2-oxopentanoic acid","C01110",0,2,0,0
+"231","5-Amino-6-(5'-phosphoribitylamino)uracil","C04454",0,1,0,0
+"232","5-Aminoimidazole ribonucleotide","C03373",0,2,0,0
+"233","5-Aminolevulinic acid","C00430",0,3,0,0
+"235","5-b-Cholestane-3a ,7a ,12a-triol","C05454",0,2,0,0
+"236","5-Dehydroepisterol","C15780",0,2,0,0
+"237","5-Diphosphoinositol pentakisphosphate","C11526",0,5,0,0
+"238","5-Formiminotetrahydrofolic acid","C00664",0,1,0,0
+"239","5-Hydroxy-L-tryptophan","C01017",0,5,0,0
+"240","5-Hydroxy-N-formylkynurenine","C05648",0,3,0,0
+"241","5-Hydroxyindoleacetic acid","C05635",0,8,0,0
+"242","5-Hydroxykynurenamine","C05638",0,3,0,0
+"243","5-Hydroxykynurenine","C05651",0,2,0,0
+"244","5-Hydroxylysine","C16741",0,4,0,0
+"245","5-L-Glutamyl-taurine","C05844",0,6,0,0
+"246","5-Methoxyindoleacetate","C05660",0,1,0,0
+"247","5-Methoxytryptamine","C05659",0,7,0,0
+"249","5-Methylthioribose 1-phosphate","C04188",0,2,0,0
+"250","5-Methylthioribulose 1-phosphate","C04582",0,2,0,0
+"251","5-Phosphoribosylamine","C03090",0,2,0,0
+"252","5-Thymidylic acid","C00364",0,15,0,0
+"255","5,6-Dihydrouridine","None",0,4,0,0
+"256","5,6-Dihydroxyindole","C05578",0,3,0,0
+"257","5,6-Dihydroxyindole-2-carboxylic acid","C04185",0,3,0,0
+"258","5,6-Epoxy-8,11,14-eicosatrienoic acid","C14768",0,25,0,0
+"259","5'-Deoxyadenosine","C05198",0,1,0,0
+"260","5'-Methylthioadenosine","C00170",0,3,0,0
+"261","5(S)-Hydroperoxyeicosatetraenoic acid","C05356",0,8,0,0
+"262","5a-Cholesta-8,24-dien-3-one","None",0,2,0,0
+"263","5a-Pregnane-3,20-dione","C03681",0,5,0,0
+"264","6-(alpha-D-Glucosaminyl)-1D-myo-inositol","C15658",0,1,0,0
+"265","6-(N-Acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol","C01288",0,1,0,0
+"266","6-Hydroxyhexanoic acid","C06103",0,2,0,0
+"267","6-Lactoyltetrahydropterin","C04244",0,1,0,0
+"268","6-Phosphogluconic acid","C00345",0,5,0,0
+"269","6-Phosphonoglucono-D-lactone","C01236",0,3,0,0
+"270","7 alpha-Hydroxy-3-oxo-4-cholestenoate","C17337",0,2,0,0
+"271","7-a,25-Dihydroxycholesterol","C15520",0,2,0,0
+"272","7-a,27-Dihydroxycholesterol","C06341",0,3,0,0
+"273","7-Aminomethyl-7-carbaguanine","C16675",0,2,0,0
+"274","7-Dehydrocholesterol","C01164",0,6,0,0
+"276","7-Methylguanine","C02242",0,1,0,0
+"277","7-Methyluric acid","C16355",0,1,0,0
+"278","7,8-Dihydroneopterin","C04874",0,6,0,0
+"279","7,8-Dihydropteroic acid","C00921",0,1,0,0
+"280","7a-Hydroxy-cholestene-3-one","C05455",0,3,0,0
+"281","7a-Hydroxycholesterol","C03594",0,2,0,0
+"283","7a,12a-Dihydroxy-5a-cholestan-3-one","C05458",0,2,0,0
+"284","7a,12a-Dihydroxy-5b-cholestan-3-one","C05453",0,3,0,0
+"285","7a,12a-Dihydroxy-cholestene-3-one","C05457",0,4,0,0
+"286","8-Oxo-dGMP","None",0,4,0,0
+"287","8-Oxo-dGTP","None",0,2,0,0
+"288","8,11,14-Eicosatrienoic acid","C03242",0,6,0,0
+"289","8(S)-HPETE","C14823",0,1,0,0
+"290","8Z,11Z,14Z-eicosatrienoyl-CoA","None",0,2,0,0
+"291","9-cis-Retinal","C16681",0,11,0,0
+"292","9-cis-Retinoic acid","C15493",0,5,0,0
+"293","9(S)-HPODE","C14827",0,2,0,0
+"295","Acetoacetyl-CoA","C00332",0,19,0,0
+"296","Acetyl adenylate","C05993",0,3,0,0
+"298","Acetyl-N-formyl-5-methoxykynurenamine","C05642",0,2,0,0
+"299","Acetylcholine","C01996",0,3,0,0
+"300","Acetylcysteine","C06809",0,4,0,0
+"301","Acetylphosphate","C00227",0,2,0,0
+"302","Adenine","C00147",0,8,0,0
+"304","Adenosine 2',3'-cyclic phosphate","C02353",0,1,0,0
+"308","Adenosine tetraphosphate","C03483",0,3,0,0
+"310","Adenosyl cobyrinic acid a,c diamide","C06506",0,1,0,0
+"311","Adenosylcobalamin","C00194",0,3,0,0
+"312","Adenylsuccinic acid","C03794",0,3,0,0
+"313","Adenylylselenate","C05686",0,2,0,0
+"314","Adipate semialdehyde","C06102",0,1,0,0
+"316","ADP-ribose 2'-phosphate","C03246",0,3,0,0
+"319","Aflatoxin B1","C06800",0,3,0,0
+"320","Aflatoxin B1 dialcohol","None",0,2,0,0
+"321","Agmatine","C00179",0,3,0,0
+"322","AICAR","C04677",0,3,0,0
+"324","All-trans-13,14-dihydroretinol","C15492",0,1,0,0
+"326","Allantoin","C01551",0,1,0,0
+"327","Allocystathionine","C00542",0,1,0,0
+"328","Allysine","C01475",0,2,0,0
+"329","Alpha-D-Glucose","C00267",0,24,0,0
+"330","Alpha-D-Glucose 1,6-bisphosphate","C01231",0,4,0,0
+"331","Alpha-ketoisovaleric acid","C00141",0,11,0,0
+"332","Alpha-Lactose","C00243",0,6,0,0
+"333","Aminoacetone","C01888",0,6,0,0
+"334","Aminoadipic acid","C00956",0,5,0,0
+"335","Aminopropylcadaverine","C16565",0,1,0,0
+"337","Amylose","C00718",0,6,0,0
+"338","Anandamide","C11695",0,5,0,0
+"339","Androstanediol","C07632",0,1,0,0
+"340","Androstanedione","C00674",0,7,0,0
+"342","Androstenol","None",0,1,0,0
+"343","Androsterone","C00523",0,29,0,0
+"344","Angiotensin II","C02135",0,9,0,0
+"345","Angiotensin IV","C15849",0,1,0,0
+"346","Aniline","C00292",0,27,0,0
+"347","Anserine","C01262",0,2,0,0
+"348","Apelin-13","None",0,1,0,0
+"350","Arecoline","C10129",0,1,0,0
+"353","Arsenic","C06269",0,2,0,0
+"355","Asymmetric dimethylarginine","C03626",0,4,0,0
+"357","Avenasterol","C08821",0,2,0,0
+"358","Azelaic acid","C08261",0,3,0,0
+"359","B-Carotene","C02094",0,2,0,0
+"360","Benzaldehyde","C00193",0,1,0,0
+"361","Benzoyl-CoA","C00512",0,3,0,0
+"362","Beta-1,4-D-Mannosylchitobiosyldiphosphodolichol","C05860",0,1,0,0
+"364","Beta-Aminopropionitrile","C05670",0,4,0,0
+"365","Beta-D-Fructose 2-phosphate","C03267",0,5,0,0
+"367","Beta-D-Galactose","C00962",0,8,0,0
+"368","Beta-D-Glucose","C00221",0,15,0,0
+"369","Beta-D-Glucose 6-phosphate","C01172",0,9,0,0
+"370","beta-Ionone","C12287",0,1,0,0
+"371","Betaine","C00719",0,4,0,0
+"372","Betaine aldehyde","C00576",0,8,0,0
+"373","Bilirubin","C00486",0,28,0,0
+"374","Bilirubin diglucuronide","C05787",0,19,0,0
+"375","Biliverdin","C00500",0,4,0,0
+"376","Biocytin","C05552",0,2,0,0
+"377","Biotin amide","C01893",0,1,0,0
+"378","Biotinyl-5'-AMP","C05921",0,1,0,0
+"379","Bradykinin","C00306",0,11,0,0
+"380","Butanal","C01412",0,1,0,0
+"383","Cadaverine","C01672",0,3,0,0
+"384","Caffeic acid","C01481",0,1,0,0
+"385","Calcidiol","C01561",0,4,0,0
+"386","Calcitriol","C01673",0,3,0,0
+"387","Campest-4-en-3-one","None",0,1,0,0
+"389","Capric acid","C01571",0,5,0,0
+"390","Caproic acid","C01585",0,9,0,0
+"395","Carnosine","C00386",0,7,0,0
+"397","CDP-DG(16:0/16:0)","None",0,4,0,0
+"398","CDP-Ethanolamine","C00570",0,3,0,0
+"399","CE(18:2(9Z,12Z))","C15441",0,8,0,0
+"405","Cetirizine","C07778",0,2,0,0
+"406","Chenodeoxycholic acid","C02528",0,13,0,0
+"407","Chenodeoxyglycocholic acid","C05462",0,10,0,0
+"408","Chenodeoxyglycocholoyl-CoA","None",0,4,0,0
+"409","Chitin","C00461",0,5,0,0
+"410","Chitobiose","C01674",0,3,0,0
+"411","Chloroacetic acid","C06755",0,3,0,0
+"412","Cholestenone","C00599",0,1,0,0
+"414","Cholesterol sulfate","C18043",0,2,0,0
+"415","Cholesteryl acetate","C02530",0,6,0,0
+"417","Choloyl-CoA","C01794",0,7,0,0
+"418","Chondroitin","C00401",0,14,0,0
+"419","Chondroitin 4-sulfate","C00634",0,9,0,0
+"420","Chondroitin sulfate","C00607",0,10,0,0
+"421","Ciliatine","C03557",0,1,0,0
+"422","Cinnavalininate","C05640",0,1,0,0
+"423","cis-Aconitic acid","C00417",0,2,0,0
+"424","cis,cis-3,6-Dodecadienoyl-CoA","C05280",0,3,0,0
+"426","Citric acid","C00158",0,25,0,0
+"427","Citrulline","C00327",0,14,0,0
+"428","CL(18:1(11Z)/18:1(11Z)/18:1(11Z)/18:2(9Z,12Z))","None",0,3,0,0
+"429","Clopidogrel","None",0,5,0,0
+"430","Cob(I)alamin","C00853",0,3,0,0
+"433","Coenzyme Q10","C11378",0,10,0,0
+"434","Coniferyl alcohol","C00590",0,1,0,0
+"435","Coproporphyrin III","C05770",0,2,0,0
+"436","Coproporphyrinogen III","C03263",0,4,0,0
+"445","Cyclohexane","C11249",0,1,0,0
+"446","Cysteamine","C01678",0,4,0,0
+"447","Cysteic acid","C00506",0,5,0,0
+"448","Cysteinylglycine","C01419",0,8,0,0
+"450","Cytidine monophosphate","C00055",0,39,0,0
+"451","Cytidine monophosphate N-acetylneuraminic acid","C00128",0,14,0,0
+"453","Cytosine","C00380",0,3,0,0
+"454","D-2-Hydroxyglutaric acid","C01087",0,2,0,0
+"455","D-4'-Phosphopantothenate","C03492",0,5,0,0
+"456","D-Alanine","C00133",0,1,0,0
+"457","D-Aspartic acid","C00402",0,1,0,0
+"458","D-Dopachrome","C15566",0,1,0,0
+"459","D-erythro-Eritadenine","None",0,1,0,0
+"461","D-Fructose","C02336",0,15,0,0
+"462","D-Fructose 2,6-bisphosphate","C00665",0,4,0,0
+"463","D-Galactose","C00984",0,15,0,0
+"464","D-Glucosaminide","C06023",0,1,0,0
+"465","D-Glucose","C00031",0,29,0,0
+"466","D-Glucurono-6,3-lactone","C02670",0,8,0,0
+"467","D-Glutamine","C00819",0,2,0,0
+"469","D-Lactaldehyde","C00937",0,2,0,0
+"470","D-Lactic acid","C00256",0,6,0,0
+"471","D-Limonene","C00521",0,2,0,0
+"473","D-Mannose 1-phosphate","C00636",0,5,0,0
+"474","D-Myo-inositol 4-phosphate","C03546",0,4,0,0
+"475","D-Pantothenoyl-L-cysteine","C04079",0,4,0,0
+"476","D-Proline","C00763",0,2,0,0
+"477","D-Ribose","C00121",0,1,0,0
+"480","D-Sedoheptulose 7-phosphate","C00281",0,5,0,0
+"481","D-Serine","C00740",0,3,0,0
+"483","D-Tartaric acid","C02107",0,3,0,0
+"484","D-Tryptophan","C00525",0,1,0,0
+"485","D-Urobilinogen","C05791",0,1,0,0
+"486","D-Xylono-1,5-lactone","C02266",0,1,0,0
+"487","D-Xylose","C00181",0,5,0,0
+"488","D-Xylulose","C00310",0,1,0,0
+"489","D-Xylulose 1-phosphate","None",0,1,0,0
+"490","dADP","C00206",0,23,0,0
+"492","Dantron","C10312",0,1,0,0
+"493","dCDP","C00705",0,15,0,0
+"494","dCMP","C00239",0,12,0,0
+"495","dCTP","C00458",0,30,0,0
+"496","Decanal","C12307",0,2,0,0
+"499","Deoxyadenosine","C00559",0,9,0,0
+"500","Deoxyadenosine monophosphate","C00360",0,12,0,0
+"502","Deoxycholic acid","C04483",0,10,0,0
+"503","Deoxycytidine","C00881",0,11,0,0
+"504","Deoxyguanosine","C00330",0,9,0,0
+"505","Deoxyhypusine","None",0,2,0,0
+"506","Deoxyinosine","C05512",0,2,0,0
+"507","Deoxyribose 1-phosphate","C00672",0,4,0,0
+"508","Deoxyribose 5-phosphate","C00673",0,3,0,0
+"509","Deoxyuridine","C00526",0,7,0,0
+"510","Deoxyuridine triphosphate","C00460",0,12,0,0
+"511","Dephospho-CoA","C00882",0,3,0,0
+"512","Dermatan","C00426",0,14,0,0
+"513","Desmosterol","C01802",0,1,0,0
+"514","Dextrin","C00721",0,7,0,0
+"519","dGDP","C00361",0,16,0,0
+"520","dGTP","C00286",0,32,0,0
+"521","DHAP(18:0)","C03805",0,1,0,0
+"522","Diadenosine hexaphosphate","C20190",0,3,0,0
+"523","Diadenosine tetraphosphate","C01260",0,1,0,0
+"524","Diadenosine triphosphate","C06197",0,1,0,0
+"525","dIDP","C01344",0,7,0,0
+"526","Diethylthiophosphate","C06607",0,3,0,0
+"527","Difucosyllactohexaose","None",0,2,0,0
+"528","Dihydrobiopterin","C02953",0,11,0,0
+"530","Dihydrocortisol","C05471",0,2,0,0
+"531","Dihydrofolic acid","C00415",0,4,0,0
+"532","Dihydrolipoamide","C00579",0,4,0,0
+"533","Dihydroneopterin phosphate","C05925",0,1,0,0
+"534","Dihydroneopterin triphosphate","C04895",0,7,0,0
+"535","Dihydropteridine","C05649",0,2,0,0
+"536","Dihydrouracil","C00429",0,2,0,0
+"537","Dihydroxyacetone","C00184",0,5,0,0
+"539","Dihydroxyacetone Phosphate Acyl Ester","C03372",0,1,0,0
+"540","Dimethylallylpyrophosphate","C00235",0,5,0,0
+"541","Dimethylamine","C00543",0,4,0,0
+"542","Dimethylarsinate","C07308",0,1,0,0
+"543","Dimethylglycine","C01026",0,3,0,0
+"544","dIMP","C06196",0,2,0,0
+"545","Disialosyl galactosyl globoside","None",0,1,0,0
+"546","DL-Dopa","C00355",0,3,0,0
+"547","Docosa-4,7,10,13,16-pentaenoyl CoA","C16173",0,2,0,0
+"548","Docosahexaenoic acid","C06429",0,5,0,0
+"549","Docosanoyl-CoA","None",0,5,0,0
+"551","Dolichol phosphate","C00110",0,6,0,0
+"552","Dolichol-20","C00381",0,17,0,0
+"553","Dolichyl b-D-glucosyl phosphate","C01246",0,5,0,0
+"554","Dolichyl beta-D-mannosyl phosphate","None",0,1,0,0
+"555","Dolichyl diphosphate","C00621",0,7,0,0
+"556","Dolichyl phosphate D-mannose","C03862",0,8,0,0
+"557","Donepezil","None",0,5,0,0
+"559","Dopaquinone","C00822",0,1,0,0
+"560","dTDP","C00363",0,25,0,0
+"561","dTDP-D-galactose","C02097",0,1,0,0
+"562","dTDP-D-glucose","C00842",0,2,0,0
+"563","dUDP","C01346",0,12,0,0
+"564","dUMP","C00365",0,7,0,0
+"565","Dyspropterin","C03684",0,2,0,0
+"566","Ecgonine","C10858",0,1,0,0
+"567","Ecgonine methyl ester","C12448",0,4,0,0
+"569","Entacapone","C07943",0,3,0,0
+"570","Epiandrosterone","C07635",0,1,0,0
+"571","Epinephrine","C00788",0,11,0,0
+"572","Episterol","C15777",0,1,0,0
+"573","Ercalcitriol","None",0,2,0,0
+"575","Ethanolamine","C00189",0,16,0,0
+"576","Ethyl carbamate","C01537",0,3,0,0
+"577","Ethyl p-anisate","None",0,1,0,0
+"578","Ethyl pyruvate","None",0,1,0,0
+"579","Etiocholanolone","C04373",0,22,0,0
+"581","FADH","C01352",0,14,0,0
+"582","Farnesyl pyrophosphate","C00448",0,9,0,0
+"583","Farnesylcysteine","C19691",0,1,0,0
+"584","Fe3+","C14819",0,6,0,0
+"585","Ferrocytochrome","C05183",0,3,0,0
+"587","Formiminoglutamic acid","C00439",0,2,0,0
+"588","Formyl-CoA","C00798",0,12,0,0
+"589","Formylanthranilic acid","C05653",0,2,0,0
+"590","Fructosamine","None",0,3,0,0
+"594","Fucose 1-phosphate","C02985",0,2,0,0
+"597","Galactaric acid","C00879",0,6,0,0
+"598","Galactitol","C01697",0,2,0,0
+"599","Galactose 1-phosphate","C00446",0,3,0,0
+"601","Galactosylglycerol","C05401",0,5,0,0
+"604","Gamma-Glutamylcysteine","C00669",0,4,0,0
+"605","Ganglioside GA1 (d18:1/12:0)","C06136",0,3,0,0
+"606","Ganglioside GA2 (d18:1/12:0)","C06135",0,10,0,0
+"614","GDP-4-Dehydro-6-deoxy-D-mannose","C01222",0,2,0,0
+"615","GDP-glucose","C00394",0,2,0,0
+"616","GDP-L-fucose","C00325",0,10,0,0
+"617","Geranyl-PP","C00341",0,3,0,0
+"618","Geranylgeranyl-PP","C00353",0,5,0,0
+"619","Glucaric acid","C00818",0,11,0,0
+"620","Gluconic acid","C00257",0,2,0,0
+"621","Gluconolactone","C00198",0,7,0,0
+"622","Glucosamine 6-phosphate","C00352",0,11,0,0
+"623","Glucosamine-1P","None",0,1,0,0
+"624","Glucose 1-phosphate","C00103",0,14,0,0
+"625","Glucose 6-phosphate","C00092",0,20,0,0
+"635","Glyceric acid","C00258",0,8,0,0
+"636","Glyceric acid 1,3-biphosphate","C00236",0,11,0,0
+"639","Glycerophosphocholine","C00670",0,15,0,0
+"640","Glycerylphosphorylethanolamine","C01233",0,7,0,0
+"642","Glycineamideribotide","C03838",0,1,0,0
+"643","Glycocholic acid","C01921",0,5,0,0
+"645","Glycylproline","None",0,1,0,0
+"646","Glycyrrhetinic acid","C02283",0,1,0,0
+"648","Guaiacol","C01502",0,2,0,0
+"649","Guanidine","C17349",0,11,0,0
+"650","Guanidoacetic acid","C00581",0,2,0,0
+"651","Guanine","C00242",0,10,0,0
+"652","Guanosine","C00387",0,8,0,0
+"654","Guanosine diphosphate mannose","C00096",0,9,0,0
+"657","Gulonic acid","C00800",0,2,0,0
+"658","Halofuginone","None",0,2,0,0
+"660","Heme A","C15670",0,1,0,0
+"661","Heme O","C15672",0,2,0,0
+"662","Hemin","C06767",0,1,0,0
+"663","Heparan sulfate","C00925",0,13,0,0
+"665","Heptacarboxylporphyrin I","None",0,1,0,0
+"667","Heptanoic acid","C17714",0,7,0,0
+"669","Hexane","C11271",0,2,0,0
+"670","Histamine","C00388",0,11,0,0
+"671","Homo-L-arginine","C01924",0,1,0,0
+"672","Homogentisic acid","C00544",0,2,0,0
+"673","Homovanillic acid","C05582",0,5,0,0
+"676","Hydrochloric acid","C01327",0,22,0,0
+"677","Hydrogen","C00282",0,1,0,0
+"680","Hydrogen phosphate","C01293",0,5,0,0
+"681","Hydrogen selenide","C01528",0,6,0,0
+"682","Hydrogen sulfide","C00283",0,27,0,0
+"683","Hydroxycobalamin","C08230",0,9,0,0
+"684","Hydroxykynurenine","C02794",0,5,0,0
+"685","Hydroxymethylbilane","C01024",0,2,0,0
+"686","Hydroxyphenylacetylglycine","C05596",0,5,0,0
+"687","Hydroxypropionic acid","C01013",0,1,0,0
+"688","Hydroxypyruvic acid","C00168",0,3,0,0
+"689","Hyodeoxycholic acid","None",0,10,0,0
+"690","Hyperforin","C07608",0,5,0,0
+"691","Hypotaurine","C00519",0,4,0,0
+"692","Hypothiocyanite","None",0,6,0,0
+"693","Hypusine","None",0,3,0,0
+"695","Iduronic acid","C06472",0,13,0,0
+"696","Iminoaspartic acid","C05840",0,1,0,0
+"697","Indoleacetaldehyde","C00637",0,9,0,0
+"699","Inosinic acid","C00130",0,31,0,0
+"700","Inositol 1,3,4-trisphosphate","C01243",0,6,0,0
+"702","Inositol 1,3,4,5,6-pentakisphosphate","C01284",0,4,0,0
+"704","Inositol cyclic phosphate","C04299",0,1,0,0
+"706","Iodide","C00708",0,5,0,0
+"707","Iodotyrosine","C02515",0,1,0,0
+"708","Isobutanol","C14710",0,33,0,0
+"709","Isocitric acid","C00311",0,7,0,0
+"710","Isohomovanillic acid","None",0,1,0,0
+"711","Isomaltose","C00252",0,1,0,0
+"712","Isopentanol","C07328",0,1,0,0
+"713","Isopentenyl pyrophosphate","C00129",0,8,0,0
+"714","Isopropyl alcohol","C01845",0,45,0,0
+"715","Isovalerylsarcosine","None",0,1,0,0
+"716","Itaconic acid","C00490",0,3,0,0
+"717","Keratan","C00573",0,12,0,0
+"718","Ketoleucine","C00233",0,4,0,0
+"719","Kynurenic acid","C01717",0,2,0,0
+"720","L-2-Amino-3-oxobutanoic acid","C03508",0,2,0,0
+"721","L-2-Aminoadipate adenylate","C05560",0,3,0,0
+"722","L-2-Hydroxyglutaric acid","C03196",0,1,0,0
+"723","L-3-Hydroxykynurenine","C03227",0,5,0,0
+"724","L-4-Hydroxyglutamate semialdehyde","C05938",0,2,0,0
+"725","L-Acetylcarnitine","C02571",0,2,0,0
+"727","L-Alpha-aminobutyric acid","C02356",0,2,0,0
+"728","L-Asparagine","C00152",0,13,0,0
+"730","L-Canaline","C08270",0,1,0,0
+"732","L-Cystine","C00491",0,7,0,0
+"733","L-Dopa","C00355",0,13,0,0
+"734","L-Dopachrome","C01693",0,3,0,0
+"735","L-Fucose","C01019",0,4,0,0
+"737","L-Glutamic acid 5-phosphate","C03287",0,1,0,0
+"738","L-Glutamic gamma-semialdehyde","C01165",0,3,0,0
+"740","L-Gulonolactone","C01040",0,1,0,0
+"741","L-Kynurenine","C00328",0,8,0,0
+"742","L-Lactic acid","C00186",0,5,0,0
+"743","L-Malic acid","C00149",0,6,0,0
+"744","L-Octanoylcarnitine","C02838",0,1,0,0
+"746","L-Serine","C00065",0,20,0,0
+"747","L-Sorbose","C08356",0,1,0,0
+"748","L-Threo-2-pentulose","C00312",0,1,0,0
+"753","Lactosylcermide (d18:1/20:0)","C01290",0,1,0,0
+"754","Lanosterin","C01724",0,3,0,0
+"755","Lathosterol","C01189",0,6,0,0
+"756","Leukotriene A4","C00909",0,3,0,0
+"757","Leukotriene B4","C02165",0,8,0,0
+"758","Leukotriene C4","C02166",0,7,0,0
+"759","Leukotriene D4","C05951",0,6,0,0
+"760","Leukotriene E4","C05952",0,1,0,0
+"761","Leukotriene F4","C06462",0,3,0,0
+"762","Lewis X trisaccharide","None",0,1,0,0
+"763","Linoleoyl-CoA","C02050",0,7,0,0
+"764","Liothyronine","C02465",0,9,0,0
+"766","Lipoyl-GMP","None",0,1,0,0
+"767","Lithium","C15473",0,8,0,0
+"768","Lithocholic acid","C03990",0,13,0,0
+"769","Lithocholic acid glycine conjugate","C15557",0,5,0,0
+"770","Lithocholyltaurine","C02592",0,1,0,0
+"772","Loratadine","C06818",0,4,0,0
+"775","LysoPC(10:0)","None",0,11,0,0
+"776","LysoPC(14:0)","C04230",0,25,0,0
+"777","LysoPC(18:1(9Z))","C04230",0,26,0,0
+"779","LysoPC(P-18:0)","C04230",0,7,0,0
+"780","LysoPE(0:0/18:0)","None",0,1,0,0
+"781","LysoSM(d18:1)","C03640",0,10,0,0
+"782","Maleylacetoacetic acid","C01036",0,2,0,0
+"783","Malonic semialdehyde","C00222",0,2,0,0
+"785","Mannitol","C00392",0,1,0,0
+"787","Melanin","C05606",0,2,0,0
+"789","Melibiitol","C05399",0,2,0,0
+"791","Mesoxalic acid","C00830",0,1,0,0
+"792","Methacrylyl-CoA","C03460",0,7,0,0
+"793","Methionine sulfoxide","None",0,3,0,0
+"794","Methyl beta-D-glucopyranoside","None",0,1,0,0
+"795","Methylamine","C00218",0,5,0,0
+"796","Methylarsonate","C07294",0,3,0,0
+"797","Methylmalonic acid","C02170",0,7,0,0
+"798","Methylmalonyl-CoA","C00683",0,5,0,0
+"799","Mevalonic acid","C00418",0,2,0,0
+"800","Mevalonic acid-5P","C01107",0,2,0,0
+"801","MG(18:0e/0:0/0:0)","None",0,1,0,0
+"802","Molybdate","C06232",0,1,0,0
+"803","Molybdopterin","C05924",0,7,0,0
+"804","Myo-inositol 1-phosphate","C04006",0,7,0,0
+"805","Myo-inositol hexakisphosphate","C01204",0,7,0,0
+"806","Myoinositol","C00137",0,7,0,0
+"807","Myristic acid","C06424",0,62,0,0
+"808","N-(o)-Hydroxyarginine","C05933",0,4,0,0
+"809","N-Acetyl-9-O-acetylneuraminic acid","None",0,1,0,0
+"810","N-Acetyl-b-D-galactosamine","C05021",0,4,0,0
+"811","N-Acetyl-b-glucosaminylamine","C01239",0,1,0,0
+"812","N-Acetyl-D-Glucosamine 6-Phosphate","C00357",0,6,0,0
+"813","N-Acetyl-D-glucosaminyldiphosphodolichol","C04500",0,2,0,0
+"815","N-Acetyl-glucosamine 1-phosphate","C04256",0,3,0,0
+"817","N-Acetyl-L-aspartic acid","C01042",0,8,0,0
+"818","N-Acetyl-L-methionine","C02712",0,4,0,0
+"819","N-Acetylarylamine","C07565",0,2,0,0
+"822","N-Acetylhistamine","C05135",0,1,0,0
+"823","N-Acetyllactosamine","C00611",0,8,0,0
+"826","N-Acetylneuraminic acid 9-phosphate","C06241",0,2,0,0
+"827","N-Acetylornithine","C00437",0,1,0,0
+"828","N-Acetylputrescine","C02714",0,4,0,0
+"829","N-Acetylserine","None",0,4,0,0
+"832","N-Glycolylneuraminic acid","C03410",0,1,0,0
+"833","N-Methylputrescine","C02723",0,2,0,0
+"834","N-Methylserotonin","C06212",0,2,0,0
+"835","N-Methyltyramine","C02442",0,5,0,0
+"836","N-Oleoylethanolamine","None",0,1,0,0
+"838","N-Sulfo-D-glucosamine","C01075",0,1,0,0
+"839","N,N-Dimethylaniline","C02846",0,5,0,0
+"840","N,N'-Diacetylchitobiosyldiphosphodolichol","C04537",0,2,0,0
+"841","N'-Formylkynurenine","C02406",0,4,0,0
+"842","N(6)-(Octanoyl)lysine","None",0,2,0,0
+"843","N1-Acetylspermidine","C00612",0,3,0,0
+"845","N1,N12-Diacetylspermine","C03413",0,1,0,0
+"846","N4-Acetylaminobutanal","C05936",0,8,0,0
+"848","N6-Acetyl-L-lysine","C02727",0,3,0,0
+"849","N6-Methyladenosine","None",0,1,0,0
+"850","N6,N6,N6-Trimethyl-L-lysine","C03793",0,2,0,0
+"855","Nandrolone","C07254",0,1,0,0
+"856","Naphthalene epoxide","None",0,20,0,0
+"857","Neolactotetraose","None",0,1,0,0
+"860","Nicotinamide riboside","C03150",0,11,0,0
+"862","Nicotinate D-ribonucleoside","C05841",0,10,0,0
+"863","Nicotinic acid adenine dinucleotide","C00857",0,7,0,0
+"864","Nicotinic acid mononucleotide","C01185",0,15,0,0
+"865","Nitric oxide","C00533",0,7,0,0
+"867","Norspermidine","C03375",0,20,0,0
+"868","O-Phosphoethanolamine","C00346",0,10,0,0
+"869","Obtusifoliol","C01943",0,1,0,0
+"870","Octadecanol","D01924",0,5,0,0
+"871","Octanal","C01545",0,1,0,0
+"872","Octanol","C00756",0,2,0,0
+"874","Okadaic acid","C01945",0,1,0,0
+"876","Oleamide","C19670",0,6,0,0
+"877","Oleic acid","C00712",0,11,0,0
+"879","OPC4-CoA","C16335",0,3,0,0
+"880","Ornithine","C00077",0,19,0,0
+"881","Orotic acid","C00295",0,2,0,0
+"882","Orotidylic acid","C01103",0,1,0,0
+"883","Ortho-Hydroxyphenylacetic acid","C05852",0,1,0,0
+"885","Oxalosuccinic acid","C05379",0,2,0,0
+"886","Oxidized glutathione","C00127",0,14,0,0
+"890","Oxytocin","C00746",0,6,0,0
+"891","p-Octopamine","C04227",0,2,0,0
+"895","Palmitaldehyde","C00517",0,5,0,0
+"897","Palmitoleic acid","C08362",0,1,0,0
+"899","Pantetheine","C00831",0,6,0,0
+"902","Parathion","C06604",0,27,0,0
+"910","Pelargonic acid","C01601",0,6,0,0
+"911","Pentadecanoic acid","C16537",0,57,0,0
+"914","Phenylacetic acid","C07086",0,4,0,0
+"915","Phenylacetyl-CoA","C00582",0,2,0,0
+"916","Phenylethylamine","C05332",0,8,0,0
+"917","Phenylpyruvic acid","C00166",0,7,0,0
+"919","Phosphite","C05339",0,1,0,0
+"921","Phosphocreatine","C02305",0,4,0,0
+"923","Phosphoglycolic acid","C00988",0,2,0,0
+"924","Phosphohydroxypyruvic acid","C03232",0,2,0,0
+"925","Phosphoribosyl formamidocarboxamide","C04734",0,3,0,0
+"928","Phosphoribosylformylglycineamidine","C04640",0,2,0,0
+"930","Phosphoroselenoic acid","C05172",0,3,0,0
+"932","Phosphoserine","C01005",0,2,0,0
+"933","Phytanoyl-CoA","C02060",0,3,0,0
+"936","Pipecolic acid","C00408",0,1,0,0
+"937","Poly-N-acetyllactosamine","None",0,7,0,0
+"938","Porphobilinogen","C00931",0,2,0,0
+"939","PPPi","C00404",0,2,0,0
+"941","Presqualene diphosphate","C03428",0,1,0,0
+"942","Pristanal","None",0,2,0,0
+"943","Pristanic acid","None",0,1,0,0
+"946","Propinol adenylate","C05983",0,4,0,0
+"948","Propyl alcohol","C05979",0,34,0,0
+"949","Prostaglandin D2","C00696",0,3,0,0
+"951","Prostaglandin F2a","C00639",0,3,0,0
+"955","Protoporphyrin IX","C02191",0,4,0,0
+"956","Protoporphyrinogen IX","C01079",0,2,0,0
+"958","Pseudouridine","C02067",0,14,0,0
+"959","Pterin","C00715",0,1,0,0
+"960","Purine","C15587",0,2,0,0
+"961","Putrescine","C00134",0,25,0,0
+"962","Pyridoxal","C00250",0,6,0,0
+"963","Pyridoxal 5'-phosphate","C00018",0,78,0,0
+"964","Pyridoxine","C00314",0,9,0,0
+"965","Pyridoxine 5'-phosphate","C00627",0,4,0,0
+"967","Pyrocatechol","C00090",0,8,0,0
+"968","Pyroglutamic acid","C01879",0,9,0,0
+"970","Pyrrolidonecarboxylic acid","C02237",0,2,0,0
+"971","Pyrroline hydroxycarboxylic acid","C04281",0,4,0,0
+"972","Pyruvaldehyde","C00546",0,11,0,0
+"974","QH2","C00390",0,48,0,0
+"975","Quetiapine","C07397",0,10,0,0
+"976","Quinolinic acid","C03722",0,2,0,0
+"977","Quinone","C00472",0,7,0,0
+"978","R-Methylmalonyl-CoA","C01213",0,2,0,0
+"979","Rabeprazole","C07864",0,4,0,0
+"980","Reduced Vitamin K (phylloquinone)","C05850",0,3,0,0
+"982","Retinyl ester","C02075",0,6,0,0
+"983","Retinyl palmitate","C02588",0,4,0,0
+"984","Riboflavin reduced","C01007",0,1,0,0
+"985","Ribose 1-phosphate","C00620",0,5,0,0
+"986","Ribothymidine","None",0,1,0,0
+"987","Risperidone","C06861",0,7,0,0
+"988","Rosiglitazone","None",0,3,0,0
+"989","S-(3-Methylbutanoyl)-dihydrolipoamide-E","C05119",0,3,0,0
+"990","S-(Hydroxymethyl)glutathione","C14180",0,1,0,0
+"991","S-Acetyldihydrolipoamide","C01136",0,2,0,0
+"993","S-Adenosylmethioninamine","C01137",0,3,0,0
+"995","S-aminomethyldihydrolipoamide","None",0,1,0,0
+"996","S-Formylglutathione","C01031",0,2,0,0
+"998","S-Lactoylglutathione","C03451",0,3,0,0
+"999","S-Methylmalonyl-CoA","C00683",0,4,0,0
+"1000","Saccharopine","C00449",0,3,0,0
+"1001","SAICAR","C04823",0,2,0,0
+"1002","Sapropterin","C00272",0,7,0,0
+"1003","Sarcosine","C00213",0,5,0,0
+"1004","Se-Adenosylselenohomocysteine","C05692",0,8,0,0
+"1006","Se-Methylselenocysteine","C05689",0,8,0,0
+"1007","Selenite","C05684",0,3,0,0
+"1008","Selenocystathionine","C05699",0,4,0,0
+"1009","Selenocysteine","C05688",0,23,0,0
+"1010","Selenohomocysteine","C05698",0,5,0,0
+"1015","Sialyl-Lewis X","None",0,2,0,0
+"1018","Solanesyl-PP","C17438",0,1,0,0
+"1019","Sorbitol","C00794",0,8,0,0
+"1020","Sorbitol-6-phosphate","C00644",0,3,0,0
+"1021","Spermidine","C00315",0,28,0,0
+"1022","Spermine","C00750",0,26,0,0
+"1027","Squalene","C00751",0,5,0,0
+"1028","Stachyose","C01613",0,1,0,0
+"1029","Stearic acid","C01530",0,66,0,0
+"1034","Succinic acid semialdehyde","C00232",0,4,0,0
+"1040","Tartronate semialdehyde","C01146",0,1,0,0
+"1042","Taurochenodesoxycholic acid","C05465",0,2,0,0
+"1045","Tetracosahexaenoyl CoA","C16168",0,2,0,0
+"1046","Tetracosatetraenoyl CoA","C16171",0,1,0,0
+"1050","Tetrahydrobiopterin","C00272",0,14,0,0
+"1052","Tetrahydrocortisone","None",0,1,0,0
+"1053","Tetrahydrodeoxycorticosterone","C13713",0,3,0,0
+"1054","Tetrahydrofolyl-[Glu](2)","C03541",0,2,0,0
+"1055","Tetrahydropteridine","C05650",0,2,0,0
+"1056","TG(10:0/10:0/10:0)[iso]","None",0,26,0,0
+"1060","Thiamine monophosphate","C01081",0,2,0,0
+"1062","Thiamine triphosphate","C03028",0,2,0,0
+"1063","Thiocyanate","C01755",0,3,0,0
+"1064","Thiocysteine","C01962",0,1,0,0
+"1065","Thiosulfate","C00320",0,4,0,0
+"1066","Thromboxane A2","C02198",0,2,0,0
+"1067","Thromboxane B2","C05963",0,1,0,0
+"1068","Thymidine","C00214",0,12,0,0
+"1069","Thymidine 3',5'-cyclic monophosphate","C00364",0,9,0,0
+"1071","Thymine","C00178",0,2,0,0
+"1072","Thyroxine","C01829",0,10,0,0
+"1073","Tiglyl-CoA","C03345",0,6,0,0
+"1074","Topaquinone","None",0,3,0,0
+"1075","trans-1,2-Dihydrobenzene-1,2-diol","C04221",0,5,0,0
+"1076","Trans-2-all-cis-6,9,12,15,18,21-tetracosaheptaenoyl-CoA","C16374",0,3,0,0
+"1077","trans-3-Decenoyl-CoA","None",0,1,0,0
+"1078","trans-3-Hexenoyl-CoA","None",0,1,0,0
+"1079","Trehalose","C01083",0,1,0,0
+"1080","Trichloroethanol glucuronide","C14869",0,18,0,0
+"1081","Trichloroethylene","C06790",0,19,0,0
+"1082","Tridecanoyl-CoA","None",0,6,0,0
+"1084","Trimethyl sulfonium","C01008",0,1,0,0
+"1085","Triphosphate","C00536",0,3,0,0
+"1086","Tryptamine","C00398",0,6,0,0
+"1087","Tyramine","C00483",0,10,0,0
+"1088","Ubiquinol 8","None",0,8,0,0
+"1089","Ubiquinone-1","C00399",0,49,0,0
+"1090","UDP-D-Xylose","C00190",0,6,0,0
+"1091","Undecaprenyl diphosphate","C03543",0,7,0,0
+"1093","Urea","C00086",0,9,0,0
+"1094","Ureidoisobutyric acid","C05100",0,2,0,0
+"1095","Ureidopropionic acid","C02642",0,4,0,0
+"1097","Uridine","C00299",0,25,0,0
+"1100","Uridine diphosphate glucose","C00029",0,16,0,0
+"1106","Urocanic acid","C00785",0,2,0,0
+"1107","Uroporphyrinogen III","C01051",0,2,0,0
+"1109","Vasopressin","C00840",0,7,0,0
+"1110","Vitamin K1 2,3-epoxide","C05849",0,2,0,0
+"1111","Vitamin K2","C00828",0,2,0,0
+"1112","Xanthosine","C01762",0,9,0,0
+"1113","Xanthosine 5-triphosphate","C00700",0,2,0,0
+"1114","Xanthurenic acid","C02470",0,4,0,0
+"1115","Xanthylic acid","C00655",0,14,0,0
+"1116","Xylulose 5-phosphate","C00231",0,6,0,0
+"1118","Zymosterol intermediate 2","C05437",0,2,0,0
